@@ -1,0 +1,5 @@
+API
+=================================
+.. automodule:: hw_sphinx
+	:members:
+	:undoc-members:
